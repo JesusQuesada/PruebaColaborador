@@ -15,8 +15,8 @@ public class PruebaColaborador {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        //1ª modificación de la prueba
-        //2ª modificación de la prueba
+        //1ª modificación
+        //2ª modificación
 
     }
     
